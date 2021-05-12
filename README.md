@@ -18,18 +18,18 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
 
 - **[gitlab]** is a complete open-source DevOps platform, delivered as a single application, fundamentally changing the way Development, Security, and Ops teams collaborate and build software
 
-  - Includes:
+  - Features:
     - Free-forever features
     - Spans the DevOps lifecycle
     - Bring your own GitLab CI runners
     - Deploy to any production environment
-    - Includes free static websites
+    - Features free static websites
     - Get 400 CI/CD minutes per month
   - [Pricing](https://about.gitlab.com/pricing/)
 
 - **[github]** is development platform which allows to build, ship, and maintain your software.
 
-  - Includes:
+  - Features:
     - Unlimited public/private repositories
     - Info 2,000 automation minutes/month
     - Free for public repositories
@@ -40,7 +40,7 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
 
 - **[bitbucket]** is the development platform from [atlassian]
 
-  - Includes:
+  - Features:
     - Up to 5 users
     - 50 min / mo build minutes
     - Git LFS 1GB
@@ -60,14 +60,14 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 
 - **[Openshift]** s a Kubernetes distribution focused on developer experience and application security that's platform agnostic. OpenShift helps you develop and deploy applications to one or more hosts. These can be public facing web applications, or backend applications, including micro services or databases<sup>[redhat-openshift]</sup>
 
-  - Includes:
+  - Features:
     - TBD
 
 ## Observability
 
 - **[logz.io]** is based on cloud-native technologies, so its easy to integrate with your distributed apps, servers, K8s clusters, serverless functions, and the rest of your environment. Based on G2Crowd reviews 1700+ teams already trust Logz.io<sup>[logzio]</sup>
 
-  - Includes:
+  - Features:
     - 10,000 series for Prometheus or Graphite metrics
     - 50 GB of logs
     - 14-day retention for metrics and logs
@@ -79,7 +79,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 
 - **[Grafana Cloud]** is a composable observability platform, integrating metrics and logs with Grafana. Leverage the best open source observability software - including Prometheus, Loki, and Tempo - without the overhead of installing, maintaining, and scaling your observability stack.<sup>[grafana]</sup>
 
-  - Includes:
+  - Features:
     - A fully managed and auto scaling ELK Stack
     - Index up to 1 GB of log data
     - 10 alerts
@@ -92,7 +92,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 
 - **[loggly]** is a log management to explore the full capabilities of Log Management and Analytics powered by SolarWinds Loggly
 
-  - Includes:
+  - Features:
     - Centralized log management
     - Automated log summaries
     - Search & filters
@@ -105,7 +105,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 
 - **[heroku]** uns your app in lightweight, isolated Linux containers called "dynos." The platform offers different dyno types to help you get the best results for your type of app.
 
-  - Includes:
+  - Features:
     - 550-1,000 dyno hours per month
     - Deploy with Git and Docker
     - Custom domains
@@ -114,7 +114,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
   - [Pricing](https://www.heroku.com/pricing)
 - **[Netfly]** is an intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps
 
-  - Includes:
+  - Features:
     - Automated builds from Git
     - Deploy to global Edge network
     - Site previews for every push
@@ -125,7 +125,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 
 - **[cloudflare workers]** allows to deploy serverless code instantly across the globe to give it exceptional performance, reliability, and scale.
 
-  - Includes:
+  - Features:
     - first 100,000 requests each day are free
     - code runs within milliseconds of your users worldwide
 
@@ -133,7 +133,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 
 - **[cloudflare]** is a global network designed to make everything you connect to the Internet secure, private, fast, and reliable.
 
-  - Includes:
+  - Features:
     - Fast, easy-to-use DNS
     - Free automated SSL certificates
     - Global content delivery network (CDN)
@@ -143,13 +143,13 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
   - [Pricing](https://www.cloudflare.com/plans/)
   - [Community](https://community.cloudflare.com/)
 
-- **[cloudflare for teams]**(https://www.cloudflare.com/teams/) helps you to stop data loss, malware and phishing with the most performant Zero Trust application access and Internet browsing solution.
+- **[cloudflare for teams](https://www.cloudflare.com/teams/)** helps you to stop data loss, malware and phishing with the most performant Zero Trust application access and Internet browsing solution.
 
 - **[jumpcloud]** Cloud Directory Platform as all in one directory, SSO, MDM, MFA, PAM, and more
 
-  - Includes:
+  - Features:
     - full platform for 10 users and 10 devices
-    - Includes full platform functionality
+    - Features full platform functionality
     - 10 days of Premium 24x7 in-app live chat supporFast, easy-to-use DNS
   - [Pricing](https://jumpcloud.com/pricing)
   - [Community](https://jumpcloud.com/resources)
@@ -158,23 +158,23 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 
 - **[RedHat Linux]**, while CentOS Linux provided a no-cost Linux distribution, no-cost RHEL also exists today through the [Red Hat Developer program](https://developers.redhat.com/rhel8). You need a [Individual Developer subscription](https://developers.redhat.com/rhel8)<sup>[redhat-linux]</sup>
 
-  - Includes:
+  - Features:
     -  RHEL can be used in production for up to 16 systems
 
 ## Collaboration
 
 - **[jira] and [confluence]**: [atlassian] offers with [jira] a free issue tracking platform and with [confluence] a free wiki
 
-  - Includes:
+  - Features:
     - 1 site
     - Supports up to 10 users or 3 agents
-    - Includes 2 GB of storaga
+    - Features 2 GB of storaga
     - Offers Community support
   - [Pricing](https://www.atlassian.com/software/jira/pricing)
 
 - **[trello]**: [atlassian] offers with [trello] a project management/kanban board
 
-  - Includes:
+  - Features:
     - Unlimited cards
     - Unlimited members
     - Up to 10 boards
@@ -199,7 +199,7 @@ Written by [Papanito](https://wyssmann.com) - [Gitlab](https://gitlab.com/papani
 
 ### Issues, more resources?
 
-Please create an [issue](https://github.com/papanito/free-dev-resources/issues) in this repository or send a PR with your changes/additions
+Please create an [issue](https://github.com/papanito/free-dev-resources/issues) in this repository or send a PR with your changes/additions.
 
 [RedHat Linux]: https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-easier-ways-access-rhel
 [Openshift]: https://developers.redhat.com/developer-sandbox/get-started
@@ -218,7 +218,8 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [atlassian]: https://www.atlassian.com
 [confluence]: https://www.atlassian.com/software/confluence/free
 [jira]: https://www.atlassian.com/software/jira/free
-[bitbucket.org]: https://bitbucket.org/
+[bitbucket]: https://bitbucket.org/
 [github]: https://github.com
 [gitlab]: https://gitlab.com
 [trello]: https://trello.com/home
+[conventionalcommits]: https://www.conventionalcommits.org/en/v1.0.0/#summary
