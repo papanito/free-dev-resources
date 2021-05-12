@@ -104,7 +104,7 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
       - Malware Scanning
     - CI/CD Integration
     - Kubernetes Admission Controller
-  -[Pricing](https://anchore.com/pricing/)
+  - [Pricing](https://anchore.com/pricing/)
 
 ## Kubernetes
 
@@ -120,24 +120,24 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 - **[logz.io]** is based on cloud-native technologies, so its easy to integrate with your distributed apps, servers, K8s clusters, serverless functions, and the rest of your environment. Based on G2Crowd reviews 1700+ teams already trust Logz.io<sup>[logzio]</sup>
 
   - Features:
-    - 10,000 series for Prometheus or Graphite metrics
-    - 50 GB of logs
-    - 14-day retention for metrics and logs
-    - Access for up to 3 team members
-    - 3 Users
-    - 10 Alerts
+    - A fully managed and auto scaling ELK Stack
+    - Index up to 1 GB of log data
+    - 10 alertsa
+    - Kibana’s powerful search and visualization capabilities
+    - ML-powered analytics: Cognitive Insights
+    - 3 days of log retention
   - [Pricing](https://logz.io/pricing/)
   - [Community](https://logz.io/blog/logzio-community/)
 
 - **[Grafana Cloud]** is a composable observability platform, integrating metrics and logs with Grafana. Leverage the best open source observability software - including Prometheus, Loki, and Tempo - without the overhead of installing, maintaining, and scaling your observability stack.<sup>[grafana]</sup>
 
   - Features:
-    - A fully managed and auto scaling ELK Stack
-    - Index up to 1 GB of log data
-    - 10 alerts
-    - Kibana’s powerful search and visualization capabilities
-    - ML-powered analytics: Cognitive Insights
-    - 3 days of log retention
+    - 10,000 series for Prometheus or Graphite metrics
+    - 50 GB of logs
+    - 14-day retention for metrics and logs
+    - Access for up to 3 team members
+    - 3 Users
+    - 10 Alerts
   - [Pricing](https://grafana.com/products/cloud/pricing/)
   - [Community](https://community.grafana.com)
   - [Slack](https://slack.grafana.com)
