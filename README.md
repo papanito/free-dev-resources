@@ -6,6 +6,7 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
 - [Kubernetes](#kubernetes)
 - [Observability](#observability)
 - [Serverless Platform](#serverless-platform)
+- [Container Registry](#container-registry)
 - [Networking and Security](#networking-and-security)
 - [Linux](#linux)
 - [Collaboration](#collaboration)
@@ -129,6 +130,27 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
     - first 100,000 requests each day are free
     - code runs within milliseconds of your users worldwide
 
+## Container Registry
+
+- **[docker]** or Docker Hub is the world’s leading service for finding and sharing container images with your team and the Docker community.
+  - Features:
+    - Unlimited public repositories
+    - Docker Desktop continuously updated
+    - Docker Desktop includes Docker Engine and Kubernetes
+    - Limited container image requests
+    - Two-factor authentication
+  - [Pricing](https://www.docker.com/pricing)
+  - [Community](https://www.docker.com/docker-community)
+  - [Slack](https://dockercommunity.slack.com/)
+
+- **[quay.io]** is RedHat's container registry which builds, analyzes and distributes your container images
+
+  - Features:
+    - Unlimited public repos
+  - [Pricing](https://quay.io/plans/)
+
+- **[gitlab]** also offers docker image hosting as part of their platform
+
 ## Networking and Security
 
 - **[cloudflare]** is a global network designed to make everything you connect to the Internet secure, private, fast, and reliable.
@@ -222,4 +244,5 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [github]: https://github.com
 [gitlab]: https://gitlab.com
 [trello]: https://trello.com/home
-[conventionalcommits]: https://www.conventionalcommits.org/en/v1.0.0/#summary
+[docker]: https://hub.docker.com/
+[quay.io]: https://quay.io/
