@@ -1,6 +1,6 @@
 # Free Developers Resources (XaaS)
 
-There are plenty of interesting services (XaaS) out there and some offer even free tiers vor developers and small teams. I collect the
+There are plenty of interesting services (XaaS) out there and some offer even free tiers for developers and small teams. I collect the
 
 ## Kubernetes
 
@@ -8,14 +8,14 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 
 - **[Openshift]** s a Kubernetes distribution focused on developer experience and application security that's platform agnostic. OpenShift helps you develop and deploy applications to one or more hosts. These can be public facing web applications, or backend applications, including micro services or databases<sup>[redhat-openshift]</sup>
 
-  - What comes included:
+  - Includes:
     - TBD
 
 ## Observability
 
 - **[logz.io]** is based on cloud-native technologies, so its easy to integrate with your distributed apps, servers, K8s clusters, serverless functions, and the rest of your environment. Based on G2Crowd reviews 1700+ teams already trust Logz.io<sup>[logzio]</sup>
 
-  - What comes included:
+  - Includes:
     - 10,000 series for Prometheus or Graphite metrics
     - 50 GB of logs
     - 14-day retention for metrics and logs
@@ -23,11 +23,11 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
     - 3 Users
     - 10 Alerts
   - [Pricing](https://logz.io/pricing/)
-  - [Community](https://logz.io/blog/logzio-community/
+  - [Community](https://logz.io/blog/logzio-community/)
 
 - **[Grafana Cloud]** is a composable observability platform, integrating metrics and logs with Grafana. Leverage the best open source observability software - including Prometheus, Loki, and Tempo - without the overhead of installing, maintaining, and scaling your observability stack.<sup>[grafana]</sup>
 
-  - What comes included:
+  - Includes:
     - A fully managed and auto scaling ELK Stack
     - Index up to 1 GB of log data
     - 10 alerts
@@ -40,7 +40,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 
 - **[loggly.com]** is a log management to explore the full capabilities of Log Management and Analytics powered by SolarWinds Loggly
 
-  - What comes included:
+  - Includes:
     - Centralized log management
     - Automated log summaries
     - Search & filters
@@ -53,7 +53,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 
 - **[heroku.com]** uns your app in lightweight, isolated Linux containers called "dynos." The platform offers different dyno types to help you get the best results for your type of app.
 
-  - What comes included:
+  - Includes:
     - 550-1,000 dyno hours per month
     - Deploy with Git and Docker
     - Custom domains
@@ -62,7 +62,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
   - [Pricing](https://www.heroku.com/pricing)
 - **[Netfly.com]** is an intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps
 
-  - What comes included:
+  - Includes:
     - Automated builds from Git
     - Deploy to global Edge network
     - Site previews for every push
@@ -75,7 +75,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 
 - **[cloudflare.com]** is a global network designed to make everything you connect to the Internet secure, private, fast, and reliable.
 
-  - What comes included:
+  - Includes:
     - Fast, easy-to-use DNS
     - Free automated SSL certificates
     - Global content delivery network (CDN)
@@ -89,7 +89,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 
 - **[jumpcloud.com]** Cloud Directory Platform as all in one directory, SSO, MDM, MFA, PAM, and more
 
-  - What comes included:
+  - Includes:
     - full platform for 10 users and 10 devices
     - Includes full platform functionality
     - 10 days of Premium 24x7 in-app live chat supporFast, easy-to-use DNS
@@ -100,7 +100,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 
 - **[RedHat Linux]**, while CentOS Linux provided a no-cost Linux distribution, no-cost RHEL also exists today through the [Red Hat Developer program](https://developers.redhat.com/rhel8). You need a [Individual Developer subscription](https://developers.redhat.com/rhel8)<sup>[redhat-linux]</sup>
 
-  - WHat comes included:
+  - Includes:
     -  RHEL can be used in production for up to 16 systems
 
 [RedHat Linux]: https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-easier-ways-access-rhel
