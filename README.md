@@ -9,7 +9,7 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
 - [Serverless Platform](#serverless-platform)
 - [Container Registry](#container-registry)
 - [Networking and Security](#networking-and-security)
-- [Linux](#linux)
+- [Enterprise Linux](#enterprise-linux)
 - [Collaboration](#collaboration)
 - [Additional Info](#additional-info)
   - [Author Information](#author-information)
@@ -227,7 +227,9 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
   - [Pricing](https://jumpcloud.com/pricing)
   - [Community](https://jumpcloud.com/resources)
 
-## Linux
+## Enterprise Linux
+
+> Well Linux is generally free but it may be interesting to mention specific enterprise linux offers
 
 - **[RedHat Linux]**, while CentOS Linux provided a no-cost Linux distribution, no-cost RHEL also exists today through the [Red Hat Developer program](https://developers.redhat.com/rhel8). You need a [Individual Developer subscription](https://developers.redhat.com/rhel8)<sup>[redhat-linux]</sup>
 
