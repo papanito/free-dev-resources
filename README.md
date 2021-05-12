@@ -9,8 +9,8 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
 - [Serverless Platform](#serverless-platform)
 - [Container Registry](#container-registry)
 - [Networking and Security](#networking-and-security)
-- [Enterprise Linux](#enterprise-linux)
 - [Collaboration](#collaboration)
+- [Enterprise Linux](#enterprise-linux)
 - [Additional Info](#additional-info)
   - [Author Information](#author-information)
   - [Maintainer](#maintainer)
@@ -227,15 +227,6 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
   - [Pricing](https://jumpcloud.com/pricing)
   - [Community](https://jumpcloud.com/resources)
 
-## Enterprise Linux
-
-> Well Linux is generally free but it may be interesting to mention specific enterprise linux offers
-
-- **[RedHat Linux]**, while CentOS Linux provided a no-cost Linux distribution, no-cost RHEL also exists today through the [Red Hat Developer program](https://developers.redhat.com/rhel8). You need a [Individual Developer subscription](https://developers.redhat.com/rhel8)<sup>[redhat-linux]</sup>
-
-  - Features:
-    -  RHEL can be used in production for up to 16 systems
-
 ## Collaboration
 
 - **[jira] and [confluence]**: [atlassian] offers with [jira] a free issue tracking platform and with [confluence] a free wiki
@@ -262,6 +253,23 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
     - 2-factor authentication
   - [Pricing](https://trello.com/pricing)
 
+- **[stackoverflow for teams]** is a knowledge management & collaboration solution that technologists already trust.
+
+  - Features:
+    - 50 teammates
+    - ChatOps integrations - Slack & Microsoft Teams
+    - Your own private space hosted on stackoverflow.com
+    - Structured and searchable knowledge base
+  - [Pricing](https://stackoverflow.com/teams/pricing)
+
+## Enterprise Linux
+
+> Well Linux is generally free but it may be interesting to mention specific enterprise linux offers
+
+- **[RedHat Linux]**, while CentOS Linux provided a no-cost Linux distribution, no-cost RHEL also exists today through the [Red Hat Developer program](https://developers.redhat.com/rhel8). You need a [Individual Developer subscription](https://developers.redhat.com/rhel8)<sup>[redhat-linux]</sup>
+
+  - Features:
+    -  RHEL can be used in production for up to 16 systems
 ## Additional Info
 
 ### Author Information
@@ -303,3 +311,4 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [octopus deploy]: https://octopus.com
 [snyk]: https://snyk.io/
 [anchore]: https://anchore.com/
+[stackoverflow for teams]: https://stackoverflow.com/teams
