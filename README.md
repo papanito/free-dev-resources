@@ -71,6 +71,12 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
   - [Pricing](https://www.netlify.com/pricing/)
   - [Community](https://www.netlify.com/community/)
 
+- **[cloudflare workers]** allows to deploy serverless code instantly across the globe to give it exceptional performance, reliability, and scale.
+
+  - Includes:
+    - first 100,000 requests each day are free
+    - code runs within milliseconds of your users worldwide
+
 ## Networking and Security
 
 - **[cloudflare.com]** is a global network designed to make everything you connect to the Internet secure, private, fast, and reliable.
@@ -103,6 +109,18 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
   - Includes:
     -  RHEL can be used in production for up to 16 systems
 
+## Author Information
+
+Written by [Papanito](https://wyssmann.com) - [Gitlab](https://gitlab.com/papanito) / [Github](https://github.com/papanito)
+
+## Maintainer
+
+- [Papanito](https://github.com/papanito)
+
+## Issues, more resources?
+
+Please create an [issue](https://github.com/papanito/free-dev-resources/issues) in this repository or send a PR with your changes/additions
+
 [RedHat Linux]: https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-easier-ways-access-rhel
 [Openshift]: https://developers.redhat.com/developer-sandbox/get-started
 [Grafana Cloud]: https://grafana.com/products/cloud/
@@ -115,4 +133,5 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 [netfly.com]: https://www.netlify.com/
 [heroku.com]: https://www.heroku.com
 [cloudflare.com]: https://www.cloudflare.com/
+[cloudflare workers]: https://workers.cloudflare.com/
 [jumpcloud.com]: https://jumpcloud.com/
