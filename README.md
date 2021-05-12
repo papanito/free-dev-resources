@@ -2,6 +2,58 @@
 
 There are plenty of interesting services (XaaS) out there and some offer even free tiers for developers and small teams. I collect the
 
+- [Source Control/Development Platforms](#source-controldevelopment-platforms)
+- [Kubernetes](#kubernetes)
+- [Observability](#observability)
+- [Serverless Platform](#serverless-platform)
+- [Networking and Security](#networking-and-security)
+- [Linux](#linux)
+- [Collaboration](#collaboration)
+- [Additional Info](#additional-info)
+  - [Author Information](#author-information)
+  - [Maintainer](#maintainer)
+  - [Issues, more resources?](#issues-more-resources)
+
+## Source Control/Development Platforms
+
+- **[gitlab]** is a complete open-source DevOps platform, delivered as a single application, fundamentally changing the way Development, Security, and Ops teams collaborate and build software
+
+  - Includes:
+    - Free-forever features
+    - Spans the DevOps lifecycle
+    - Bring your own GitLab CI runners
+    - Deploy to any production environment
+    - Includes free static websites
+    - Get 400 CI/CD minutes per month
+  - [Pricing](https://about.gitlab.com/pricing/)
+
+- **[github]** is development platform which allows to build, ship, and maintain your software.
+
+  - Includes:
+    - Unlimited public/private repositories
+    - Info 2,000 automation minutes/month
+    - Free for public repositories
+    - Info 500MB of Packages storage
+    - Free for public repositories
+    - Info Community support
+  - [Pricing](https://github.com/pricing#feature-comparison)
+
+- **[bitbucket]** is the development platform from [atlassian]
+
+  - Includes:
+    - Up to 5 users
+    - 50 min / mo build minutes
+    - Git LFS 1GB
+    - Unlimited private repositories
+    - Jira Software integration
+    - Trello integration
+    - CI/CD
+    - Unlimited pull request reviewers
+    - Code Insights
+    - 3 integrations
+    - Merge checks
+  - [Pricing](https://www.atlassian.com/software/bitbucket/pricing)
+
 ## Kubernetes
 
 Please see [List of free Trials/Credit for Managed Kubernetes Services](https://github.com/learnk8s/free-kubernetes) for free trials
@@ -38,7 +90,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
   - [Community](https://community.grafana.com)
   - [Slack](https://slack.grafana.com)
 
-- **[loggly.com]** is a log management to explore the full capabilities of Log Management and Analytics powered by SolarWinds Loggly
+- **[loggly]** is a log management to explore the full capabilities of Log Management and Analytics powered by SolarWinds Loggly
 
   - Includes:
     - Centralized log management
@@ -51,7 +103,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 
 ## Serverless Platform
 
-- **[heroku.com]** uns your app in lightweight, isolated Linux containers called "dynos." The platform offers different dyno types to help you get the best results for your type of app.
+- **[heroku]** uns your app in lightweight, isolated Linux containers called "dynos." The platform offers different dyno types to help you get the best results for your type of app.
 
   - Includes:
     - 550-1,000 dyno hours per month
@@ -60,7 +112,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
     - Container orchestration
     - Automatic OS patching
   - [Pricing](https://www.heroku.com/pricing)
-- **[Netfly.com]** is an intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps
+- **[Netfly]** is an intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps
 
   - Includes:
     - Automated builds from Git
@@ -79,7 +131,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 
 ## Networking and Security
 
-- **[cloudflare.com]** is a global network designed to make everything you connect to the Internet secure, private, fast, and reliable.
+- **[cloudflare]** is a global network designed to make everything you connect to the Internet secure, private, fast, and reliable.
 
   - Includes:
     - Fast, easy-to-use DNS
@@ -93,7 +145,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
 
 - **[cloudflare for teams]**(https://www.cloudflare.com/teams/) helps you to stop data loss, malware and phishing with the most performant Zero Trust application access and Internet browsing solution.
 
-- **[jumpcloud.com]** Cloud Directory Platform as all in one directory, SSO, MDM, MFA, PAM, and more
+- **[jumpcloud]** Cloud Directory Platform as all in one directory, SSO, MDM, MFA, PAM, and more
 
   - Includes:
     - full platform for 10 users and 10 devices
@@ -109,15 +161,43 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
   - Includes:
     -  RHEL can be used in production for up to 16 systems
 
-## Author Information
+## Collaboration
+
+- **[jira] and [confluence]**: [atlassian] offers with [jira] a free issue tracking platform and with [confluence] a free wiki
+
+  - Includes:
+    - 1 site
+    - Supports up to 10 users or 3 agents
+    - Includes 2 GB of storaga
+    - Offers Community support
+  - [Pricing](https://www.atlassian.com/software/jira/pricing)
+
+- **[trello]**: [atlassian] offers with [trello] a project management/kanban board
+
+  - Includes:
+    - Unlimited cards
+    - Unlimited members
+    - Up to 10 boards
+    - 1 Power-Up per board
+    - Unlimited storage (10MB/file)
+    - 50 automated command runs per month
+    - Unlimited activity log
+    - Assignee and due dates
+    - iOS and Android mobile apps
+    - 2-factor authentication
+  - [Pricing](https://trello.com/pricing)
+
+## Additional Info
+
+### Author Information
 
 Written by [Papanito](https://wyssmann.com) - [Gitlab](https://gitlab.com/papanito) / [Github](https://github.com/papanito)
 
-## Maintainer
+### Maintainer
 
 - [Papanito](https://github.com/papanito)
 
-## Issues, more resources?
+### Issues, more resources?
 
 Please create an [issue](https://github.com/papanito/free-dev-resources/issues) in this repository or send a PR with your changes/additions
 
@@ -125,13 +205,20 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [Openshift]: https://developers.redhat.com/developer-sandbox/get-started
 [Grafana Cloud]: https://grafana.com/products/cloud/
 [logz.io]: https://logz.io/
-[Loggly.com]: https://www.loggly.com/
+[Loggly]: https://www.loggly.com/
 [grafana]: https://wyssmann.com/blog/2021/05/introduction-to-grafana-cloud/
 [logzio]: https://wyssmann.com/blog/2021/05/introduction-to-logz.io/
 [redhat-openshift]: https://containerjournal.com/features/red-hat-woos-developers-with-free-openshift-instances/
 [redhat-linux]: https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-easier-ways-access-rhel
-[netfly.com]: https://www.netlify.com/
-[heroku.com]: https://www.heroku.com
-[cloudflare.com]: https://www.cloudflare.com/
+[netfly]: https://www.netlify.com/
+[heroku]: https://www.heroku.com
+[cloudflare]: https://www.cloudflare.com/
 [cloudflare workers]: https://workers.cloudflare.com/
-[jumpcloud.com]: https://jumpcloud.com/
+[jumpcloud]: https://jumpcloud.com/
+[atlassian]: https://www.atlassian.com
+[confluence]: https://www.atlassian.com/software/confluence/free
+[jira]: https://www.atlassian.com/software/jira/free
+[bitbucket.org]: https://bitbucket.org/
+[github]: https://github.com
+[gitlab]: https://gitlab.com
+[trello]: https://trello.com/home
