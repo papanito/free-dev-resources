@@ -3,6 +3,7 @@
 There are plenty of interesting services (XaaS) out there and some offer even free tiers for developers and small teams. I collect the
 
 - [Source Control/Development Platforms](#source-controldevelopment-platforms)
+- [Security](#security)
 - [Kubernetes](#kubernetes)
 - [Observability](#observability)
 - [Serverless Platform](#serverless-platform)
@@ -54,6 +55,56 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
     - 3 integrations
     - Merge checks
   - [Pricing](https://www.atlassian.com/software/bitbucket/pricing)
+
+- **[travis-ci]** is a continuous integration platform.
+
+  - Features:
+    - 10000 Credits
+    - Unlimited unique users
+    - Private & Open-Source Repos
+    - Windows, Linux, MacOS, FreeBSD 
+  - [Pricing](https://www.travis-ci.com/plans)
+
+- **[octopus deploy]** is a continuous delivery platform to enable your developers, release managers, and operations folks to bring all automation into a single place
+
+  - Features:
+    - Deployments as-a-service for 10 targets
+    - Octopus on your infrastructure for 10 targets
+  - [Pricing](https://octopus.com/pricing/overview)
+
+## Security
+
+- **[snyk]** offers different products under it's name:
+
+  [Snyk Open Source Security Management](https://snyk.io/product/open-source-security-management/) - Automatically find, prioritize and fix vulnerabilities in the open source dependencies used to build your cloud native applications
+
+  [Snyk Code](https://snyk.io/product/snyk-code/) - Static Application Security Testing re-imagined for the developer
+
+  [Snyk Container](https://snyk.io/product/container-vulnerability-management/) - Container and Kubernetes security designed to help developers find and fix vulnerabilities in cloud native applications
+
+  [Snyk infrastructure as code](https://snyk.io/product/infrastructure-as-code-security/) - Put cloud native configuration security in the hands of developers
+
+   - Features:
+     - 200 Open Source Tests per month
+     - 100 Container Tests per month
+     - 300 IaC tests per month
+     - 100 Synk Code tests per month
+     - Unlimited Developers
+   - [Pricing](https://snyk.io/plans/)
+
+- **[anchore]** is a continuous security and compliance for cloud-native software development
+
+  - Features:
+    - Software Bill of Materials for Linux Containers
+    - Security Scanning for NPM, Python, Node, Java
+      - CVE Scanning
+      - Dockerfile Checks
+      - Credential Scanning
+      - Allowlist & Denylist
+      - Malware Scanning
+    - CI/CD Integration
+    - Kubernetes Admission Controller
+  -[Pricing](https://anchore.com/pricing/)
 
 ## Kubernetes
 
@@ -246,3 +297,7 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [trello]: https://trello.com/home
 [docker]: https://hub.docker.com/
 [quay.io]: https://quay.io/
+[travis-ci]: https://www.travis-ci.com
+[octopus deploy]: https://octopus.com
+[snyk]: https://snyk.io/
+[anchore]: https://anchore.com/
