@@ -8,6 +8,7 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
 - [Observability](#observability)
 - [Serverless Platform](#serverless-platform)
 - [Container Registry](#container-registry)
+- [(Cloud Native) Storage](#cloud-native-storage)
 - [Networking and Security](#networking-and-security)
 - [Collaboration](#collaboration)
 - [Enterprise Linux](#enterprise-linux)
@@ -106,9 +107,34 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
     - Kubernetes Admission Controller
   - [Pricing](https://anchore.com/pricing/)
 
+- **[sonatype oss index]** is a free catalogue of open source components and scanning tools to help developers identify vulnerabilities, understand risk, and keep their software safe.
+
+  - Features:
+    - Search known, publicly disclosed vulnerabilities for these package types
+      - Maven
+      - npm
+      - Go
+      - PyPI
+      - NuGet
+      - RubyGems
+      - Alpine
+      - Bower
+      - Cargo
+      - Chocolatey
+      - Clojars
+      - CocoaPods
+      - Composer
+      - Conan
+      - Conda
+      - CRAN
+      - Debian
+      - Drupal
+      - RPM
+      - Swift
+
 ## Kubernetes
 
-Please see [List of free Trials/Credit for Managed Kubernetes Services](https://github.com/learnk8s/free-kubernetes) for free trials
+> Please see [List of free Trials/Credit for Managed Kubernetes Services](https://github.com/learnk8s/free-kubernetes) for free trials
 
 - **[Openshift]** s a Kubernetes distribution focused on developer experience and application security that's platform agnostic. OpenShift helps you develop and deploy applications to one or more hosts. These can be public facing web applications, or backend applications, including micro services or databases<sup>[redhat-openshift]</sup>
 
@@ -164,6 +190,7 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
     - Container orchestration
     - Automatic OS patching
   - [Pricing](https://www.heroku.com/pricing)
+
 - **[Netfly]** is an intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps
 
   - Features:
@@ -201,6 +228,40 @@ Please see [List of free Trials/Credit for Managed Kubernetes Services](https://
   - [Pricing](https://quay.io/plans/)
 
 - **[gitlab]** also offers docker image hosting as part of their platform
+
+## (Cloud Native) Storage
+
+- **[robin.io]** Cloud Native Storage for any Kubernetes on‑premises and in any Cloud
+  - Features:
+    - 5 nodes
+    - 5 TB storage
+    - Community support
+  - [Pricing](https://robin.io/features/)
+  - [Slack](https://slack.robin.io/)
+
+- **[portworx]** Kubernetes Storage Platform is the software-defined container storage platform built from the ground up for Kubernetes. By providing scale-out software defined container storage, data availability, data security, backup and disaster recovery for Kubernetes-based applications running on-prem or across clouds Cloud Native Storage
+
+  - Features:
+    - 5 nodes
+    - 5 TB storage
+    - 500 volumes
+    - Max 30 Containers per Node 	30
+    - Max 50 Volumes (200 when using Pure FlashArray or FlashBlade – coming July 2021)
+    - Max 1 TB Storage Per Node (unlimited when using Pure FlashArray or FlashBlade – coming July 2021)
+    - Max 5 TB Storage Per Cluster (unlimited when using Pure FlashArray or FlashBlade – coming July 2021)
+    - 5 Application-Consistent Snapshots per Volume
+    - Volume Backup to Cloud:/Day/Volume
+
+
+  - [Pricing](https://portworx.com/products/features/)
+  - [Slack](https://slack.robin.io/)
+
+
+- **[backblaze b2]** is enterprise-grade, S3 compatible storage that companies around the world use to store and serve data while improving their cloud OpEx vs. Amazon S3 and others.
+
+  - Features:
+    - 10GB free
+  - [Pricing](https://www.backblaze.com/b2/cloud-storage-pricing.html)
 
 ## Networking and Security
 
@@ -312,3 +373,7 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [snyk]: https://snyk.io/
 [anchore]: https://anchore.com/
 [stackoverflow for teams]: https://stackoverflow.com/teams
+[backblaze b2]: https://www.backblaze.com/b2/cloud-storage.html#
+[robin.io]: https://robin.io/
+[sonatype oss index]: https://ossindex.sonatype.org
+[portworx]: https://central.portworx.com/
