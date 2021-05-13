@@ -22,11 +22,10 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
 - **[gitlab]** is a complete open-source DevOps platform, delivered as a single application, fundamentally changing the way Development, Security, and Ops teams collaborate and build software
 
   - Features:
-    - Free-forever features
     - Spans the DevOps lifecycle
     - Bring your own GitLab CI runners
     - Deploy to any production environment
-    - Features free static websites
+    - Free static websites
     - Get 400 CI/CD minutes per month
   - [Pricing](https://about.gitlab.com/pricing/)
 
@@ -65,6 +64,27 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
     - Private & Open-Source Repos
     - Windows, Linux, MacOS, FreeBSD 
   - [Pricing](https://www.travis-ci.com/plans)
+
+- **[circleci]** continuous integration in the cloud or on your own infrastructure.
+
+  - Features (cloud):
+    - 2,500 free credits/week
+    - Run 1 job at a time
+    - Build on Linux, Windows, and Arm
+  - [Pricing](https://circleci.com/pricing/)
+
+- **[codefresh]** is a GitOps automation platform for Kubernetes apps
+
+  - Features:
+    - 1 small runner (1 GB RAM 1 CPU)
+    - Up to 3 users
+    - SaaS deployment
+    - Unlimited builds
+    - Unlimited repositories
+    - Pipeline metrics
+    - Private Helm repository
+    - 1-month data retention
+  - [Pricing](https://codefresh.io/pricing/)
 
 - **[octopus deploy]** is a continuous delivery platform to enable your developers, release managers, and operations folks to bring all automation into a single place
 
@@ -377,3 +397,5 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [robin.io]: https://robin.io/
 [sonatype oss index]: https://ossindex.sonatype.org
 [portworx]: https://central.portworx.com/
+[circleci]: https://circleci.com/
+[codefresh]: https://codefresh.io/
