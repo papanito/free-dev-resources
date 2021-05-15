@@ -45,13 +45,13 @@ see [Development Platforms](#development-platforms)
 
 - **[bettercodehub]** checks your GitHub codebase against 10 engineering guidelines devised by the authority in software quality, Software Improvement Group (SIG)
 
-- Features:
-  - Unlimited public repos
-  - 100'000 Lines of code per repo
-  - Add issues to GitHub
-  - Prioritized list of refactoring candidates
-  - 1 User
-- [Pricing](https://www.bettercodehub.com/pricing)
+  - Features:
+    - Unlimited public repos
+    - 100'000 Lines of code per repo
+    - Add issues to GitHub
+    - Prioritized list of refactoring candidates
+    - 1 User
+  - [Pricing](https://www.bettercodehub.com/pricing)
 
 ## Collaboration
 
@@ -101,6 +101,7 @@ see [Development Platforms](#development-platforms)
 ## Container Registry
 
 - **[docker]** or Docker Hub is the world’s leading service for finding and sharing container images with your team and the Docker community.
+
   - Features:
     - Unlimited public repositories
     - Limited container image requests
