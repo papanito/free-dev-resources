@@ -5,17 +5,23 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
 > Students may also checkout [GitHub Student Developer Pack](https://education.github.com/pack) which may even offer better deals.
 
 - [Build](#build)
+- [Code](#code)
 - [Collaboration](#collaboration)
 - [Communication](#communication)
 - [Container Registry](#container-registry)
+- [Data](#data)
+- [Design](#design)
 - [Development Platforms](#development-platforms)
+- [Event Streaming](#event-streaming)
 - [Kubernetes](#kubernetes)
 - [Networking](#networking)
 - [Observability](#observability)
-- [Security](#security)
 - [IAM](#iam)
+- [Search](#search)
+- [Security](#security)
 - [Serverless Platform](#serverless-platform)
 - [Storage (Cloud Native)](#storage-cloud-native)
+- [Testing](#testing)
 - [Enterprise Linux](#enterprise-linux)
 - [Additional Info](#additional-info)
   - [Author Information](#author-information)
@@ -25,6 +31,27 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
 ## Build
 
 see [Development Platforms](#development-platforms)
+
+## Code
+
+- **[codecov]** is a tool to see absolute coverage and coverage changes overlayed with your source code
+
+  - Features
+    - Unlimited Public / Private Repositories
+    - SAML Ready
+    - Community Support
+    - Integrates with [github], [gitlab] and [bitbucket]
+  - [Pricing](https://about.codecov.io/pricing/)
+
+- **[bettercodehub]** checks your GitHub codebase against 10 engineering guidelines devised by the authority in software quality, Software Improvement Group (SIG)
+
+- Features:
+  - Unlimited public repos
+  - 100'000 Lines of code per repo
+  - Add issues to GitHub
+  - Prioritized list of refactoring candidates
+  - 1 User
+- [Pricing](https://www.bettercodehub.com/pricing)
 
 ## Collaboration
 
@@ -89,6 +116,32 @@ see [Development Platforms](#development-platforms)
   - [Pricing](https://quay.io/plans/)
 
 - **[gitlab]** also offers docker image hosting as part of their platform
+
+## Data
+
+- **[flatline]** is a drop-in data importer, means you define your unique schema, and return the imported data in this format
+
+  - Features:
+    - Embeddable import widget
+    - Smart column matching
+    - Pattern based validation
+    - Custom theming
+  - [Pricing](https://flatfile.io/product/portal/)
+
+## Design
+
+- **[awesomefonts]** offers vector icons and social logos for your website
+
+  - Features:
+    - 1,609 Icons
+    - 1 Style + Brands
+    - 1 Seat
+    - 1 Free Kit
+    - 10K Pageviews/Month
+  - [Pricing](https://fontawesome.com/plans)
+
+- **[feathericons]**  is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency, and flexibility.
+
 ## Development Platforms
 
 - **[gitlab]** is a complete open-source DevOps platform to build, ship, and maintain your software.to host and build code
@@ -165,6 +218,24 @@ see [Development Platforms](#development-platforms)
     - Octopus on your infrastructure for 10 targets
   - [Pricing](https://octopus.com/pricing/overview)
 
+## Event Streaming
+
+- **[confluent]** offers Apache Kafka® as a cloud-native service
+
+  - Features:
+    - Single AZ Replication
+    - Schema Registry
+    - At-rest & in-transit data encryption, Kafka ACLs, SAML/SSO
+    - End-to-end Kafka visualizations with Data Flow
+    - Available add-ons:
+    - Managed Connectors
+    - Stream processing with ksqlDB
+    - 1 task per Connector
+    - First 10 partitions free
+    - Up to 100MBps throughput
+    - 5TB Storage
+    - 99.5% Uptime SLA
+  - [Pricinig](https://www.confluent.co.uk/confluent-cloud/pricing)
 
 ## Kubernetes
 
@@ -241,6 +312,56 @@ see [Development Platforms](#development-platforms)
     - Free Proactive Detection 
   - [Princing](https://newrelic.com/pricing)
 
+## IAM
+
+- **[jumpcloud]** Cloud Directory Platform as all in one directory, SSO, MDM, MFA, PAM, and more
+
+  - Features:
+    - full platform for 10 users and 10 devices
+    - Features full platform functionality
+    - 10 days of Premium 24x7 in-app live chat supporFast, easy-to-use DNS
+  - [Pricing](https://jumpcloud.com/pricing)
+  - [Community](https://jumpcloud.com/resources)
+
+- **[cloudflare]** see under [Newtroking](#networking)
+
+- **[okta]** is the leading platform for identity management
+
+  - Features:
+    - Monthly Active User Limit: 15'000
+    - Cumulative Rate Limit Per Minute 1'600
+    - Community Support
+    - 5 OIDC Applications
+    - 3 SAML Applications
+    - M2M Tokens: 1.5k/month
+    - 3 OIN Integrations
+    - 3 Inbound Federation
+    - Authentication
+    - Social Authentication
+    - Facebook/Google/Apple
+    - MFA Factors
+    - SMS/Voice MFA
+    - Adaptive MFA Policies
+    - User Management
+    - Custom Domain
+    - Custom Widget
+    - ThreatInsight
+    - API Access Management
+    - Directory Integration
+    - AD/LDAP
+    - Lifecycle Management (LCM) Engine
+    - 99.99% Uptime
+  - [Pricing](https://developer.okta.com/pricing/)
+
+## Search
+
+- **[algolia]** is a flexible AI-powered Search & Discovery platform
+
+  - Features:
+    - 10 units free
+      1 unit = 1,000 search requestsand the capacity to index up to 1,000 records
+  - [Pricing](https://www.algolia.com/pricing/)
+
 ## Security
 
 - **[snyk]** offers different products under it's name:
@@ -300,47 +421,6 @@ see [Development Platforms](#development-platforms)
       - RPM
       - Swift
 
-## IAM
-
-- **[jumpcloud]** Cloud Directory Platform as all in one directory, SSO, MDM, MFA, PAM, and more
-
-  - Features:
-    - full platform for 10 users and 10 devices
-    - Features full platform functionality
-    - 10 days of Premium 24x7 in-app live chat supporFast, easy-to-use DNS
-  - [Pricing](https://jumpcloud.com/pricing)
-  - [Community](https://jumpcloud.com/resources)
-
-- **[cloudflare]** see under [Newtroking](#networking)
-
-- **[okta]** is the leading platform for identity management
-
-  - Features:
-    - Monthly Active User Limit: 15'000
-    - Cumulative Rate Limit Per Minute 1'600
-    - Community Support
-    - 5 OIDC Applications
-    - 3 SAML Applications
-    - M2M Tokens: 1.5k/month
-    - 3 OIN Integrations
-    - 3 Inbound Federation
-    - Authentication
-    - Social Authentication
-    - Facebook/Google/Apple
-    - MFA Factors
-    - SMS/Voice MFA
-    - Adaptive MFA Policies
-    - User Management
-    - Custom Domain
-    - Custom Widget
-    - ThreatInsight
-    - API Access Management
-    - Directory Integration
-    - AD/LDAP
-    - Lifecycle Management (LCM) Engine
-    - 99.99% Uptime
-  - [Pricing](https://developer.okta.com/pricing/)
-
 ## Serverless Platform
 
 - **[heroku]** uns your app in lightweight, isolated Linux containers called "dynos." The platform offers different dyno types to help you get the best results for your type of app.
@@ -353,7 +433,7 @@ see [Development Platforms](#development-platforms)
     - Automatic OS patching
   - [Pricing](https://www.heroku.com/pricing)
 
-- **[Netfly]** is an intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps
+- **[netfly]** is an intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps
 
   - Features:
     - Automated builds from Git
@@ -402,7 +482,17 @@ see [Development Platforms](#development-platforms)
     - 10GB free
   - [Pricing](https://www.backblaze.com/b2/cloud-storage-pricing.html)
 
+## Testing
 
+- **[testmail.app]** offers e-mail testing via an API
+
+  - Features:
+    - 100 emails/month
+    - Unlimited inboxes, email addresses, and spam tests
+    - Unlimited users
+    - 1 day retention
+    - One random namespace
+  - [Pricing](https://testmail.app/pricing)
 
 ## Enterprise Linux
 
@@ -464,3 +554,11 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [newrelic]: https://newrelic.com/
 [slack]: https://slack.com
 [okta]: https://developer.okta.com
+[testmail.app]: https://testmail.app
+[confluenct]: https://www.confluent.co.uk
+[flatline]: https://flatfile.io/product/portal/
+[algolia]: https://www.algolia.com
+[codecov]: https://about.codecov.io/
+[bettercodehub]: https://www.bettercodehub.com
+[awesomefonts]: https://fontawesome.com/
+[feathericons]: https://feathericons.com/
