@@ -236,7 +236,7 @@ see [Development Platforms](#development-platforms)
     - Up to 100MBps throughput
     - 5TB Storage
     - 99.5% Uptime SLA
-  - [Pricinig](https://www.confluent.co.uk/confluent-cloud/pricing)
+  - [Pricing](https://www.confluent.co.uk/confluent-cloud/pricing)
 
 ## Kubernetes
 
@@ -311,7 +311,7 @@ see [Development Platforms](#development-platforms)
     - 100 Synthetics Checks
     - Unlimited free Alerts
     - Free Proactive Detection 
-  - [Princing](https://newrelic.com/pricing)
+  - [Pricing](https://newrelic.com/pricing)
 
 ## IAM
 
