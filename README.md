@@ -1,25 +1,97 @@
 # Free Developers Resources (XaaS)
 
-There are plenty of interesting services (XaaS) out there and some offer even free tiers for developers and small teams. I collect the
+There are plenty of interesting services (XaaS) out there and some offer even free tiers for developers and small teams. I collect them in this list.
 
-- [Source Control/Development Platforms](#source-controldevelopment-platforms)
-- [Security](#security)
-- [Kubernetes](#kubernetes)
-- [Observability](#observability)
-- [Serverless Platform](#serverless-platform)
-- [Container Registry](#container-registry)
-- [(Cloud Native) Storage](#cloud-native-storage)
-- [Networking and Security](#networking-and-security)
+> Students may also checkout [GitHub Student Developer Pack](https://education.github.com/pack) which may even offer better deals.
+
+- [Build](#build)
 - [Collaboration](#collaboration)
+- [Communication](#communication)
+- [Container Registry](#container-registry)
+- [Development Platforms](#development-platforms)
+- [Kubernetes](#kubernetes)
+- [Networking](#networking)
+- [Observability](#observability)
+- [Security](#security)
+- [IAM](#iam)
+- [Serverless Platform](#serverless-platform)
+- [Storage (Cloud Native)](#storage-cloud-native)
 - [Enterprise Linux](#enterprise-linux)
 - [Additional Info](#additional-info)
   - [Author Information](#author-information)
   - [Maintainer](#maintainer)
   - [Issues, more resources?](#issues-more-resources)
 
-## Source Control/Development Platforms
+## Build
 
-- **[gitlab]** is a complete open-source DevOps platform, delivered as a single application, fundamentally changing the way Development, Security, and Ops teams collaborate and build software
+see [Development Platforms](#development-platforms)
+
+## Collaboration
+
+- **[jira] and [confluence]**:[jira] an issue tracking platform and [confluence] wiki/collaboration platfor, both offered by [atlassian]
+
+  - Features:
+    - 1 site
+    - Supports up to 10 users or 3 agents
+    - Features 2 GB of storaga
+    - Offers Community support
+  - [Pricing](https://www.atlassian.com/software/jira/pricing)
+
+- **[trello]**: [atlassian] offers with [trello] a project management/kanban board
+
+  - Features:
+    - Unlimited cards
+    - Unlimited members
+    - Up to 10 boards
+    - 1 Power-Up per board
+    - Unlimited storage (10MB/file)
+    - 50 automated command runs per month
+    - Unlimited activity log
+    - Assignee and due dates
+    - iOS and Android mobile apps
+    - 2-factor authentication
+  - [Pricing](https://trello.com/pricing)
+
+- **[stackoverflow for teams]** is a knowledge management & collaboration solution that technologists already trust.
+
+  - Features:
+    - 50 teammates
+    - ChatOps integrations - Slack & Microsoft Teams
+    - Your own private space hosted on stackoverflow.com
+    - Structured and searchable knowledge base
+  - [Pricing](https://stackoverflow.com/teams/pricing)
+
+## Communication
+
+- **[slack]** is a proprietary business communication platform which offers many IRC-style features, including persistent chat rooms (channels) organized by topic, private groups, and direct messaging
+
+  - Features:
+    - Access to 10,000 of your team’s most recent messages
+    - 10 integrations with other apps like Google Drive, Office 365 and many more
+    - 1:1 voice and video calls between teammates
+ - [Pricing](https://slack.com/intl/en-ch/pricing)
+
+## Container Registry
+
+- **[docker]** or Docker Hub is the world’s leading service for finding and sharing container images with your team and the Docker community.
+  - Features:
+    - Unlimited public repositories
+    - Limited container image requests
+    - Two-factor authentication
+  - [Pricing](https://www.docker.com/pricing)
+  - [Community](https://www.docker.com/docker-community)
+  - [Slack](https://dockercommunity.slack.com/)
+
+- **[quay.io]** is RedHat's container registry which builds, analyzes and distributes your container images
+
+  - Features:
+    - Unlimited public repos
+  - [Pricing](https://quay.io/plans/)
+
+- **[gitlab]** also offers docker image hosting as part of their platform
+## Development Platforms
+
+- **[gitlab]** is a complete open-source DevOps platform to build, ship, and maintain your software.to host and build code
 
   - Features:
     - Spans the DevOps lifecycle
@@ -29,7 +101,7 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
     - Get 400 CI/CD minutes per month
   - [Pricing](https://about.gitlab.com/pricing/)
 
-- **[github]** is development platform which allows to build, ship, and maintain your software.
+- **[github]** is development platform to build, ship, and maintain your software.
 
   - Features:
     - Unlimited public/private repositories
@@ -93,6 +165,82 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
     - Octopus on your infrastructure for 10 targets
   - [Pricing](https://octopus.com/pricing/overview)
 
+
+## Kubernetes
+
+> Please see [List of free Trials/Credit for Managed Kubernetes Services](https://github.com/learnk8s/free-kubernetes) for free trials
+
+- **[Openshift]** s a Kubernetes distribution focused on developer experience and application security that's platform agnostic. OpenShift helps you develop and deploy applications to one or more hosts. These can be public facing web applications, or backend applications, including micro services or databases<sup>[redhat-openshift]</sup>
+
+  - Features:
+    - TBD
+
+## Networking
+
+- **[cloudflare]** is a global network designed to make everything you connect to the Internet secure, private, fast, and reliable.
+
+  - Features:
+    - Fast, easy-to-use DNS
+    - Free automated SSL certificates
+    - Global content delivery network (CDN)
+    - Unmetered mitigation of DDoS attacks with up to 67 Tbps capacity
+    - Up to 100k Workers requests and 30 scripts
+    - 3 Page Rules
+  - [Pricing](https://www.cloudflare.com/plans/)
+  - [Community](https://community.cloudflare.com/)
+
+- **[cloudflare for teams](https://www.cloudflare.com/teams/)** helps you to stop data loss, malware and phishing with the most performant Zero Trust application access and Internet browsing solution.
+
+## Observability
+
+- **[logz.io]** is based on cloud-native technologies, so its easy to integrate with your distributed apps, servers, K8s clusters, serverless functions, and the rest of your environment. Based on G2Crowd reviews 1700+ teams already trust Logz.io<sup>[logzio]</sup>
+
+  - Features:
+    - A fully managed and auto scaling ELK Stack
+    - Index up to 1 GB of log data
+    - 10 alerts
+    - Kibana’s powerful search and visualization capabilities
+    - ML-powered analytics: Cognitive Insights
+    - 3 days of log retention
+  - [Pricing](https://logz.io/pricing/)
+  - [Community](https://logz.io/blog/logzio-community/)
+
+- **[Grafana Cloud]** is a composable observability platform, integrating metrics and logs with Grafana. Leverage the best open source observability software - including Prometheus, Loki, and Tempo - without the overhead of installing, maintaining, and scaling your observability stack.<sup>[grafana]</sup>
+
+  - Features:
+    - 10,000 series for Prometheus or Graphite metrics
+    - 50 GB of logs
+    - 14-day retention for metrics and logs
+    - Access for up to 3 team members
+    - 3 Users
+    - 10 Alerts
+  - [Pricing](https://grafana.com/products/cloud/pricing/)
+  - [Community](https://community.grafana.com)
+  - [Slack](https://slack.grafana.com)
+
+- **[loggly]** is a log management to explore the full capabilities of Log Management and Analytics powered by SolarWinds Loggly
+
+  - Features:
+    - Centralized log management
+    - Automated log summaries
+    - Search & filters
+    - Single user
+    - 200 MB/day
+    - 7 days retention
+  - [Pricing](https://www.loggly.com/plans-and-pricing/)
+
+- **[newrelic]** offers an integrated, cost-effective platform to centralize our approach to observability.
+
+  - Features
+    - 1 free Full user
+    - 100GB free per month for Ingest
+    - 8 days+ retention
+    - Unlimited querying
+    - 100 Synthetics Checks
+    - Unlimited free Alerts
+    - Free Proactive Detection 
+  - [Princing](https://newrelic.com/pricing)
+
 ## Security
 
 - **[snyk]** offers different products under it's name:
@@ -152,52 +300,46 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
       - RPM
       - Swift
 
-## Kubernetes
+## IAM
 
-> Please see [List of free Trials/Credit for Managed Kubernetes Services](https://github.com/learnk8s/free-kubernetes) for free trials
-
-- **[Openshift]** s a Kubernetes distribution focused on developer experience and application security that's platform agnostic. OpenShift helps you develop and deploy applications to one or more hosts. These can be public facing web applications, or backend applications, including micro services or databases<sup>[redhat-openshift]</sup>
+- **[jumpcloud]** Cloud Directory Platform as all in one directory, SSO, MDM, MFA, PAM, and more
 
   - Features:
-    - TBD
+    - full platform for 10 users and 10 devices
+    - Features full platform functionality
+    - 10 days of Premium 24x7 in-app live chat supporFast, easy-to-use DNS
+  - [Pricing](https://jumpcloud.com/pricing)
+  - [Community](https://jumpcloud.com/resources)
 
-## Observability
+- **[cloudflare]** see under [Newtroking](#networking)
 
-- **[logz.io]** is based on cloud-native technologies, so its easy to integrate with your distributed apps, servers, K8s clusters, serverless functions, and the rest of your environment. Based on G2Crowd reviews 1700+ teams already trust Logz.io<sup>[logzio]</sup>
-
-  - Features:
-    - A fully managed and auto scaling ELK Stack
-    - Index up to 1 GB of log data
-    - 10 alertsa
-    - Kibana’s powerful search and visualization capabilities
-    - ML-powered analytics: Cognitive Insights
-    - 3 days of log retention
-  - [Pricing](https://logz.io/pricing/)
-  - [Community](https://logz.io/blog/logzio-community/)
-
-- **[Grafana Cloud]** is a composable observability platform, integrating metrics and logs with Grafana. Leverage the best open source observability software - including Prometheus, Loki, and Tempo - without the overhead of installing, maintaining, and scaling your observability stack.<sup>[grafana]</sup>
+- **[okta]** is the leading platform for identity management
 
   - Features:
-    - 10,000 series for Prometheus or Graphite metrics
-    - 50 GB of logs
-    - 14-day retention for metrics and logs
-    - Access for up to 3 team members
-    - 3 Users
-    - 10 Alerts
-  - [Pricing](https://grafana.com/products/cloud/pricing/)
-  - [Community](https://community.grafana.com)
-  - [Slack](https://slack.grafana.com)
-
-- **[loggly]** is a log management to explore the full capabilities of Log Management and Analytics powered by SolarWinds Loggly
-
-  - Features:
-    - Centralized log management
-    - Automated log summaries
-    - Search & filters
-    - Single user
-    - 200 MB/day
-    - 7 days retention
-  - [Pricing](https://www.loggly.com/plans-and-pricing/)
+    - Monthly Active User Limit: 15'000
+    - Cumulative Rate Limit Per Minute 1'600
+    - Community Support
+    - 5 OIDC Applications
+    - 3 SAML Applications
+    - M2M Tokens: 1.5k/month
+    - 3 OIN Integrations
+    - 3 Inbound Federation
+    - Authentication
+    - Social Authentication
+    - Facebook/Google/Apple
+    - MFA Factors
+    - SMS/Voice MFA
+    - Adaptive MFA Policies
+    - User Management
+    - Custom Domain
+    - Custom Widget
+    - ThreatInsight
+    - API Access Management
+    - Directory Integration
+    - AD/LDAP
+    - Lifecycle Management (LCM) Engine
+    - 99.99% Uptime
+  - [Pricing](https://developer.okta.com/pricing/)
 
 ## Serverless Platform
 
@@ -228,28 +370,7 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
     - first 100,000 requests each day are free
     - code runs within milliseconds of your users worldwide
 
-## Container Registry
-
-- **[docker]** or Docker Hub is the world’s leading service for finding and sharing container images with your team and the Docker community.
-  - Features:
-    - Unlimited public repositories
-    - Docker Desktop continuously updated
-    - Docker Desktop includes Docker Engine and Kubernetes
-    - Limited container image requests
-    - Two-factor authentication
-  - [Pricing](https://www.docker.com/pricing)
-  - [Community](https://www.docker.com/docker-community)
-  - [Slack](https://dockercommunity.slack.com/)
-
-- **[quay.io]** is RedHat's container registry which builds, analyzes and distributes your container images
-
-  - Features:
-    - Unlimited public repos
-  - [Pricing](https://quay.io/plans/)
-
-- **[gitlab]** also offers docker image hosting as part of their platform
-
-## (Cloud Native) Storage
+## Storage (Cloud Native)
 
 - **[robin.io]** Cloud Native Storage for any Kubernetes on‑premises and in any Cloud
   - Features:
@@ -265,17 +386,15 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
     - 5 nodes
     - 5 TB storage
     - 500 volumes
-    - Max 30 Containers per Node 	30
-    - Max 50 Volumes (200 when using Pure FlashArray or FlashBlade – coming July 2021)
-    - Max 1 TB Storage Per Node (unlimited when using Pure FlashArray or FlashBlade – coming July 2021)
-    - Max 5 TB Storage Per Cluster (unlimited when using Pure FlashArray or FlashBlade – coming July 2021)
+    - Max 30 Containers per Node
+    - Max 50 Volumes
+    - Max 1 TB Storage Per Node
+    - Max 5 TB Storage Per Cluster
     - 5 Application-Consistent Snapshots per Volume
     - Volume Backup to Cloud:/Day/Volume
 
-
   - [Pricing](https://portworx.com/products/features/)
   - [Slack](https://slack.robin.io/)
-
 
 - **[backblaze b2]** is enterprise-grade, S3 compatible storage that companies around the world use to store and serve data while improving their cloud OpEx vs. Amazon S3 and others.
 
@@ -283,65 +402,7 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
     - 10GB free
   - [Pricing](https://www.backblaze.com/b2/cloud-storage-pricing.html)
 
-## Networking and Security
 
-- **[cloudflare]** is a global network designed to make everything you connect to the Internet secure, private, fast, and reliable.
-
-  - Features:
-    - Fast, easy-to-use DNS
-    - Free automated SSL certificates
-    - Global content delivery network (CDN)
-    - Unmetered mitigation of DDoS attacks with up to 67 Tbps capacity
-    - Up to 100k Workers requests and 30 scripts
-    - 3 Page Rules
-  - [Pricing](https://www.cloudflare.com/plans/)
-  - [Community](https://community.cloudflare.com/)
-
-- **[cloudflare for teams](https://www.cloudflare.com/teams/)** helps you to stop data loss, malware and phishing with the most performant Zero Trust application access and Internet browsing solution.
-
-- **[jumpcloud]** Cloud Directory Platform as all in one directory, SSO, MDM, MFA, PAM, and more
-
-  - Features:
-    - full platform for 10 users and 10 devices
-    - Features full platform functionality
-    - 10 days of Premium 24x7 in-app live chat supporFast, easy-to-use DNS
-  - [Pricing](https://jumpcloud.com/pricing)
-  - [Community](https://jumpcloud.com/resources)
-
-## Collaboration
-
-- **[jira] and [confluence]**: [atlassian] offers with [jira] a free issue tracking platform and with [confluence] a free wiki
-
-  - Features:
-    - 1 site
-    - Supports up to 10 users or 3 agents
-    - Features 2 GB of storaga
-    - Offers Community support
-  - [Pricing](https://www.atlassian.com/software/jira/pricing)
-
-- **[trello]**: [atlassian] offers with [trello] a project management/kanban board
-
-  - Features:
-    - Unlimited cards
-    - Unlimited members
-    - Up to 10 boards
-    - 1 Power-Up per board
-    - Unlimited storage (10MB/file)
-    - 50 automated command runs per month
-    - Unlimited activity log
-    - Assignee and due dates
-    - iOS and Android mobile apps
-    - 2-factor authentication
-  - [Pricing](https://trello.com/pricing)
-
-- **[stackoverflow for teams]** is a knowledge management & collaboration solution that technologists already trust.
-
-  - Features:
-    - 50 teammates
-    - ChatOps integrations - Slack & Microsoft Teams
-    - Your own private space hosted on stackoverflow.com
-    - Structured and searchable knowledge base
-  - [Pricing](https://stackoverflow.com/teams/pricing)
 
 ## Enterprise Linux
 
@@ -350,7 +411,8 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
 - **[RedHat Linux]**, while CentOS Linux provided a no-cost Linux distribution, no-cost RHEL also exists today through the [Red Hat Developer program](https://developers.redhat.com/rhel8). You need a [Individual Developer subscription](https://developers.redhat.com/rhel8)<sup>[redhat-linux]</sup>
 
   - Features:
-    -  RHEL can be used in production for up to 16 systems
+    -  RHEL can be used in production for up to 16
+
 ## Additional Info
 
 ### Author Information
@@ -399,3 +461,6 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [portworx]: https://central.portworx.com/
 [circleci]: https://circleci.com/
 [codefresh]: https://codefresh.io/
+[newrelic]: https://newrelic.com/
+[slack]: https://slack.com
+[okta]: https://developer.okta.com
