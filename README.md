@@ -485,7 +485,7 @@ see [Development Platforms](#development-platforms)
     - Automatic OS patching
   - [Pricing](https://www.heroku.com/pricing)
 
-- **[netfly]** is an intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps
+- **[netlify]** is an intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps
 
   - Features:
     - Automated builds from Git
@@ -599,7 +599,7 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [logzio]: https://wyssmann.com/blog/2021/05/introduction-to-logz.io/
 [redhat-openshift]: https://containerjournal.com/features/red-hat-woos-developers-with-free-openshift-instances/
 [redhat-linux]: https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-easier-ways-access-rhel
-[netfly]: https://www.netlify.com/
+[netlify]: https://www.netlify.com/
 [heroku]: https://www.heroku.com
 [cloudflare]: https://www.cloudflare.com/
 [cloudflare workers]: https://workers.cloudflare.com/
