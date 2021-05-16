@@ -263,6 +263,19 @@ see [Development Platforms](#development-platforms)
 
 - **[cloudflare for teams](https://www.cloudflare.com/teams/)** helps you to stop data loss, malware and phishing with the most performant Zero Trust application access and Internet browsing solution.
 
+  - Features:
+    - Unlimited custom application and Internet access policies
+    - 3 Network-level security for physical locations
+    - Email support
+    - Zero Trust Network Access
+    - Secure Web Gateway
+    - Recursive DNS Filters
+    - Layer 7 Proxy Filters
+    - Antivirus inspection
+    - CASB-lite
+    - 24h activity log retention
+  - [Pricing](https://www.cloudflare.com/teams-pricing/)
+
 ## Observability
 
 - **[logz.io]** is based on cloud-native technologies, so its easy to integrate with your distributed apps, servers, K8s clusters, serverless functions, and the rest of your environment. Based on G2Crowd reviews 1700+ teams already trust Logz.io<sup>[logzio]</sup>
@@ -313,6 +326,28 @@ see [Development Platforms](#development-platforms)
     - Free Proactive Detection 
   - [Pricing](https://newrelic.com/pricing)
 
+- **[lightstep]** is a platform which offers infrastructure, application, runtime, cloud, third-party metrics ingestion and tracing
+
+  - Features:
+    - 4MB / minute of data tracing
+    - max 7'5000 active time series
+    - 28 days data retention
+  - [Pricing](https://lightstep.com/pricing/)
+
+- **[netdata cloud][netdata]** is an observability platform
+
+  - Features:
+    - Unlimited Hosts, Containers
+    - Unlimited Metrics
+    - Unlimited Custom Metrics
+    - 1s Metrics granularity (with 100 ms latency)
+    - Unlimited Users
+    - Unlimited Admins
+    - Unlimited Alarms (with up to per-second granularity)
+    - Unlimited Alarm notifications (email, custom webhooks)
+    - 200+ Data collection integrations
+  - [Pricing](https://www.netdata.cloud/get-netdata/)
+
 ## IAM
 
 - **[jumpcloud]** Cloud Directory Platform as all in one directory, SSO, MDM, MFA, PAM, and more
@@ -324,7 +359,7 @@ see [Development Platforms](#development-platforms)
   - [Pricing](https://jumpcloud.com/pricing)
   - [Community](https://jumpcloud.com/resources)
 
-- **[cloudflare]** see under [Newtroking](#networking)
+- **[cloudflare]** see under [Newtworking](#networking)
 
 - **[okta]** is the leading platform for identity management
 
@@ -495,6 +530,27 @@ see [Development Platforms](#development-platforms)
     - One random namespace
   - [Pricing](https://testmail.app/pricing)
 
+- **[lambdatest]** allows you to perform live interactive and automated cross browser testing on 2000+ real browsers and OS online
+
+  - Features:
+    - 1 Parallel Test (5 Users)
+    - 60 mins/month Realtime Browser Testing
+    - 6 Sessions of 10 minutes each
+    - 10 Screenshot Tests per month
+    - 10 Responsive Tests per month
+    - 30 Mins Daily Access To LT Browser
+    - 24x7 Support
+    - 3rd Party App Integrations
+    - Free 100 Automation Minutes for 15 days
+  - [Pricing](https://www.lambdatest.com/pricing)
+
+- **[accesslint]** offers automated and continuous web accessibility testing
+
+  - Features:
+    - Integrates with [github](https://github.com/marketplace/accesslint)
+    - For personal accounts only
+  - [Pricing](https://github.com/marketplace/accesslint/plan)
+
 ## Enterprise Linux
 
 > Well Linux is generally free but it may be interesting to mention specific enterprise linux offers
@@ -563,3 +619,7 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [bettercodehub]: https://www.bettercodehub.com
 [awesomefonts]: https://fontawesome.com/
 [feathericons]: https://feathericons.com/
+[lightstep]: https://lightstep.com/
+[netdata]: https://www.netdata.cloud
+[lambdatest]: https://www.lambdatest.com/
+[accesslint]: https://accesslint.com/
