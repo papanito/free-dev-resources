@@ -96,7 +96,16 @@ see [Development Platforms](#development-platforms)
     - Access to 10,000 of your team’s most recent messages
     - 10 integrations with other apps like Google Drive, Office 365 and many more
     - 1:1 voice and video calls between teammates
- - [Pricing](https://slack.com/intl/en-ch/pricing)
+  - [Pricing](https://slack.com/intl/en-ch/pricing)
+
+- **[zulip]** is an open-source real-time chat with an email threading model
+
+  - Features:
+    - 10,000 messages of search history
+    - File storage up to 5 GB total
+    - Convenient web service
+    - No sysadmin work required
+  - [Pricing](https://zulip.com/plans/)
 
 ## Container Registry
 
@@ -142,6 +151,13 @@ see [Development Platforms](#development-platforms)
   - [Pricing](https://fontawesome.com/plans)
 
 - **[feathericons]**  is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency, and flexibility.
+
+- **[iconfinder]** is a large marketplace for icons
+
+  - Features:
+    - Access to 321,002 free icons
+    - With ads
+  - [Pricing](https://www.iconfinder.com/pricing)
 
 ## Development Platforms
 
@@ -613,13 +629,15 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [okta]: https://developer.okta.com
 [testmail.app]: https://testmail.app
 [confluenct]: https://www.confluent.co.uk
-[flatline]: https://flatfile.io/product/portal/
+[flatline]: https://flatfile.io/product/portal
 [algolia]: https://www.algolia.com
-[codecov]: https://about.codecov.io/
+[codecov]: https://about.codecov.io
 [bettercodehub]: https://www.bettercodehub.com
-[awesomefonts]: https://fontawesome.com/
-[feathericons]: https://feathericons.com/
-[lightstep]: https://lightstep.com/
+[awesomefonts]: https://fontawesome.com
+[feathericons]: https://feathericons.com
+[lightstep]: https://lightstep.com
 [netdata]: https://www.netdata.cloud
-[lambdatest]: https://www.lambdatest.com/
-[accesslint]: https://accesslint.com/
+[lambdatest]: https://www.lambdatest.com
+[accesslint]: https://accesslint.com
+[iconfinder]: https://www.iconfinder.com
+[zulip]: https://zulip.com
