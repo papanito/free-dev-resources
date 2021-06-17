@@ -53,6 +53,14 @@ see [Development Platforms](#development-platforms)
     - 1 User
   - [Pricing](https://www.bettercodehub.com/pricing)
 
+- **[sourcehut]** is the hosted instance of sourcehut and provides paid services to its users. Sourcehut is itself an [open-source project](https://sr.ht/~sircmpwn/sourcehut). Users who contribute patches to the upstream project are eligible for free service. 
+
+  - Features
+    - Source code hosting
+  - [Pricing](https://sourcehut.org/pricing/)
+    - There is no difference between any of the plans: they all have access to the same level of service, and the same service limits. You should choose whichever plan best represents your financial ability and your level of investment in sr.ht. It's an honor system: pay what you think the service is worth to you.
+
+
 ## Collaboration
 
 - **[jira] and [confluence]**:[jira] an issue tracking platform and [confluence] wiki/collaboration platfor, both offered by [atlassian]
@@ -641,3 +649,4 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [accesslint]: https://accesslint.com
 [iconfinder]: https://www.iconfinder.com
 [zulip]: https://zulip.com
+[sourcehut]: https://sourcehut.org/
