@@ -20,6 +20,7 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
 - [Search](#search)
 - [Security](#security)
 - [Serverless Platform](#serverless-platform)
+- [Secret Management](#secret-management)
 - [Storage (Cloud Native)](#storage-cloud-native)
 - [Testing](#testing)
 - [Enterprise Linux](#enterprise-linux)
@@ -53,7 +54,7 @@ see [Development Platforms](#development-platforms)
     - 1 User
   - [Pricing](https://www.bettercodehub.com/pricing)
 
-- **[sourcehut]** is the hosted instance of sourcehut and provides paid services to its users. Sourcehut is itself an [open-source project](https://sr.ht/~sircmpwn/sourcehut). Users who contribute patches to the upstream project are eligible for free service. 
+- **[sourcehut]** is the hosted instance of sourcehut and provides paid services to its users. Sourcehut is itself an [open-source project](https://sr.ht/~sircmpwn/sourcehut). Users who contribute patches to the upstream project are eligible for free service.
 
   - Features
     - Source code hosting
@@ -510,6 +511,16 @@ see [Development Platforms](#development-platforms)
     - first 100,000 requests each day are free
     - code runs within milliseconds of your users worldwide
 
+## Secret Management
+
+- **[doppler]** is a universal secret manager
+
+  - Features:
+    - Unlimited Users
+    - Unlimited Secrets
+    - Secrets Referencing
+  - [Pricing](https://www.doppler.com/pricing/)
+
 ## Storage (Cloud Native)
 
 - **[robin.io]** Cloud Native Storage for any Kubernetes on‑premises and in any Cloud
@@ -650,3 +661,4 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [iconfinder]: https://www.iconfinder.com
 [zulip]: https://zulip.com
 [sourcehut]: https://sourcehut.org/
+[doppler]: https://www.doppler.com/
