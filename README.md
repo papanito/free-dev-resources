@@ -457,6 +457,20 @@ see [Development Platforms](#development-platforms)
     - Kubernetes Admission Controller
   - [Pricing](https://anchore.com/pricing/)
 
+- **[aqua]** is a cloud native security platform available in both, Self-hosted or SaaS offering that secures your public cloud services across multiple accounts and providers.
+
+  - Features:
+    - Up to 500 Aqua units (AWS instances, S3 Buckets, ....)
+    - CSPM
+      - Single cloud account
+      - Monthly Scan Reports
+      - Compliance Reports CIS Only
+    - Platform
+      - Up to 5 Users
+      - 30 Days Data Retention
+      - Community Support
+  - [Pricing](https://www.aquasec.com/pricing/)
+
 - **[sonatype oss index]** is a free catalogue of open source components and scanning tools to help developers identify vulnerabilities, understand risk, and keep their software safe.
 
   - Features:
@@ -662,3 +676,4 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [zulip]: https://zulip.com
 [sourcehut]: https://sourcehut.org/
 [doppler]: https://www.doppler.com/
+[aqua]: https://www.aquasec.com
