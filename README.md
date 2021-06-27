@@ -6,6 +6,7 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
 
 - [Build](#build)
 - [Code](#code)
+- [Cloud Computing](#cloud-computing)
 - [Collaboration](#collaboration)
 - [Communication](#communication)
 - [Container Registry](#container-registry)
@@ -61,6 +62,34 @@ see [Development Platforms](#development-platforms)
   - [Pricing](https://sourcehut.org/pricing/)
     - There is no difference between any of the plans: they all have access to the same level of service, and the same service limits. You should choose whichever plan best represents your financial ability and your level of investment in sr.ht. It's an honor system: pay what you think the service is worth to you.
 
+## Cloud Computing
+
+- **[oracle cloud]** offers a always free tier for developers
+
+  - Features:
+    - Infrastructure
+      - 2 AMD based Compute VMs with 1/8 OCPU** and 1 GB memory each
+      - 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
+      - 2 Block Volumes Storage, 200 GB total
+      - 10 GB Object Storage
+      - 10 GB Archive Storage
+      - Resource Manager: managed Terraform
+      - 5 OCI Bastions
+    - Databases
+      - Your choice of Oracle Autonomous Transaction Processing, Autonomous Data Warehouse, Autonomous JSON Database, or APEX Application Development. Two databases total, each with 1 OCPU** and 20 GB storage.
+      - NoSQL Database with 133 million reads per month, 133 million writes per month, 25 GB storage per table, up to 3 tables
+    - Observability and Management
+      - Monitoring: 500 million ingestion datapoints, 1 billion retrieval datapoints
+      - Application Performance Monitoring: 1000 tracing events per hour
+      - Logging: 10 GB per month
+      - Notifications: 1 million sent through https per month, 1000 sent through email per month
+      - Service Connector Hub: 2 service connectors
+    - Additional services
+      - Flexible Load Balancer: 1 instance, 10 Mbps
+      - Flexible Network Load Balancer
+      - Outbound Data Transfer: 10 TB per month
+
+  - [Pricing]: https://www.oracle.com/cloud/free/
 
 ## Collaboration
 
@@ -69,7 +98,7 @@ see [Development Platforms](#development-platforms)
   - Features:
     - 1 site
     - Supports up to 10 users or 3 agents
-    - Features 2 GB of storaga
+    - Features 2 GB of storage
     - Offers Community support
   - [Pricing](https://www.atlassian.com/software/jira/pricing)
 
@@ -677,3 +706,4 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [sourcehut]: https://sourcehut.org/
 [doppler]: https://www.doppler.com/
 [aqua]: https://www.aquasec.com
+[oracle cloud]: https://www.oracle.com/cloud/free/
