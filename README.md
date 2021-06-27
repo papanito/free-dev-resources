@@ -64,6 +64,79 @@ see [Development Platforms](#development-platforms)
 
 ## Cloud Computing
 
+- **[google cloud]** offers select Google Cloud products—like Compute Engine, Cloud Storage, and BigQuery—free of charge, within specified monthly usage limits. There are some additional restrictions, checkout the link.
+  - Features:
+    - App Engine
+      - 28 hours per day of "F" instances
+      - 9 hours per day of "B" instances
+      - 1 GB of egress per day
+    - Artifact Registry
+      - 0.5 GB storage per month
+    - AutoML Natural Language
+      - 5000 units of prediction per month
+    - AutoML Tables
+      - 6 node hours for training and prediction
+    - AutoML Translation
+      - 500,000 translated characters per month
+    - AutoML Video Intelligence
+      - 40 node hours for training
+      - 5 node hours for prediction
+    - AutoML Vision
+      - 40 node hours for training and online prediction
+      - 1 node hour for batch classification prediction
+      - 15 node hours for Edge training
+    - BigQuery
+      - 1 TB of querying per month
+      - 10 GB of storage each month
+    - Cloud Build
+      - 120 build-minutes per day
+    - Cloud Functions
+      - 2 million invocations per month (includes both background and HTTP invocations)
+      - 400,000 GB-seconds, 200,000 GHz-seconds of compute time
+      - 5 GB network egress per month
+    - Cloud Logging and Cloud Monitoring
+      - Free monthly logging allotment
+      - Free monthly metrics allotment
+    - Cloud Natural Language API
+      - 5,000 units per month
+    - Cloud Run
+      - 2 million requests per month
+      - 360,000 GB-seconds of memory, 180,000 vCPU-seconds of compute time
+      - 1 GB network egress from North America per month
+    - Cloud Shell
+      - Free access to Cloud Shell, including 5 GB of persistent disk storage
+    - Cloud Source Repositories
+      - Up to 5 users
+      - 50 GB of storage
+      - 50 GB egress
+    - Cloud Storage
+      - 5 GB-months of regional storage (US regions only)
+      - 5,000 Class A Operations per month
+      - 50,000 Class B Operations per month
+      - 1 GB network egress from North America to all region destinations (excluding China and Australia) per month
+    - Cloud Vision
+      - 1,000 units per month
+    - Compute Engine
+      - 1 non-preemptible f1-micro VM instance per month in some US regions
+      - 30 GB-months HDD
+      - 5 GB-month snapshot storage in some regions
+      - 1 GB network egress from North America to all region destinations (excluding China and Australia) per month
+    - Firestore
+      - 1 GB storage
+      - 50,000 reads, 20,000 writes, 20,000 deletes per day
+    - Google Kubernetes Engine
+      - No cluster management fee for one Autopilot or Zonal cluster per billing account. For clusters created in Autopilot mode, pods are billed per second for vCPU, memory and disk resource requests. For clusters created in Standard mode, each user node is charged at standard Compute Engine pricing.
+    - Pub/Sub
+      - 10 GB of messages per month
+    - Speech-to-Text
+      - 60 minutes per month
+    - Video Intelligence API
+      - 1,000 units per month
+    - Workflows
+      - 5,000 internal steps per month
+    - 2,000 external HTTP calls per month
+  - [Pricing](https://cloud.google.com/products/calculator)
+
 - **[oracle cloud]** offers a always free tier for developers
 
   - Features:
@@ -707,3 +780,4 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [doppler]: https://www.doppler.com/
 [aqua]: https://www.aquasec.com
 [oracle cloud]: https://www.oracle.com/cloud/free/
+[google cloud]: https://cloud.google.com/free/docs/gcp-free-tier
