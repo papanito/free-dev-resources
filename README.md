@@ -475,6 +475,18 @@ see [Development Platforms](#development-platforms)
     - 200+ Data collection integrations
   - [Pricing](https://www.netdata.cloud/get-netdata/)
 
+- [Sentry's][sentry] application monitoring platform helps every developer diagnose, fix, and optimize the performance of their code.
+
+  - Features:
+    - 1 user
+    - 5K errors
+    - 10K transactions
+    - 1GB attachments
+    - Support for all languages
+    - Release tracking
+    - Community forums
+  - [Pricing](https://sentry.io/pricing/)
+
 ## IAM
 
 - **[jumpcloud]** Cloud Directory Platform as all in one directory, SSO, MDM, MFA, PAM, and more
@@ -781,3 +793,4 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [aqua]: https://www.aquasec.com
 [oracle cloud]: https://www.oracle.com/cloud/free/
 [google cloud]: https://cloud.google.com/free/docs/gcp-free-tier
+[sentry]: https://sentry.io/
