@@ -487,6 +487,15 @@ see [Development Platforms](#development-platforms)
     - Community forums
   - [Pricing](https://sentry.io/pricing/)
 
+- **[logdna]** provides a scalable, easy to use platform to ingest and take action on all of your data, regardless of structure or use case. It’s trusted by thousands of developers and DevOps teams for SaaS, cloud, and hybrid applications.
+
+  - Features:
+    - Live Streaming Tail (no retention)
+    - Unlimited Hosts & Source
+    - Unlimited Saved Views
+    - Single user
+  - [Pricing](https://www.logdna.com/pricing)
+
 ## IAM
 
 - **[jumpcloud]** Cloud Directory Platform as all in one directory, SSO, MDM, MFA, PAM, and more
@@ -794,3 +803,4 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [oracle cloud]: https://www.oracle.com/cloud/free/
 [google cloud]: https://cloud.google.com/free/docs/gcp-free-tier
 [sentry]: https://sentry.io/
+[logdna]: https://www.logdna.com/
