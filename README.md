@@ -11,10 +11,12 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
 - [Communication](#communication)
 - [Container Registry](#container-registry)
 - [Data](#data)
+- [Database](#database)
 - [Design](#design)
 - [Development Platforms](#development-platforms)
 - [Event Streaming](#event-streaming)
 - [Kubernetes](#kubernetes)
+- [Messaging](#messaging)
 - [Networking](#networking)
 - [Observability](#observability)
 - [IAM](#iam)
@@ -249,6 +251,15 @@ see [Development Platforms](#development-platforms)
     - Custom theming
   - [Pricing](https://flatfile.io/product/portal/)
 
+## Database
+
+- **[MongoDB][mongodb]** application data platform offers the mongodb NoSQL database as a service
+  - Features:
+    - 512MB to 5GB of storage
+    - Shared RAM
+    - Upgrade to dedicated clusters for full functionality
+  - [Pricing](https://www.mongodb.com/pricing)
+
 ## Design
 
 - **[awesomefonts]** offers vector icons and social logos for your website
@@ -373,6 +384,15 @@ see [Development Platforms](#development-platforms)
 
   - Features:
     - TBD
+
+## Messaging
+
+- **[ably]** is a pub/sub messaging platform with a suite of integrated services to deliver complete realtime functionality directly to end-users.
+  - Features:
+    - 3m monthly messages
+    - 100 peak connections
+    - 100 peak channels
+  - [Pricing](https://ably.com/pricing)
 
 ## Networking
 
@@ -804,3 +824,5 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [google cloud]: https://cloud.google.com/free/docs/gcp-free-tier
 [sentry]: https://sentry.io/
 [logdna]: https://www.logdna.com/
+[mongodb]: https://www.mongodb.com
+[ably]: https://ably.com
