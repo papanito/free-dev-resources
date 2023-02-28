@@ -516,6 +516,15 @@ see [Development Platforms](#development-platforms)
     - Single user
   - [Pricing](https://www.logdna.com/pricing)
 
+- **[healthchecks]** Monitors cron jobs and notifies you, when your nightly backups, weekly reports, cron jobs, and scheduled tasks don't run on time.
+
+  - Features:
+    - Monitor 20 jobs
+    - 3 team members
+    - 100 log entries per job
+    - 5 SMS & WhatsApp credits
+  - [Pricing]([https://www.logdna.com/pricing](https://healthchecks.io/pricing/))
+
 ## IAM
 
 - **[jumpcloud]** Cloud Directory Platform as all in one directory, SSO, MDM, MFA, PAM, and more
@@ -826,3 +835,4 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [logdna]: https://www.logdna.com/
 [mongodb]: https://www.mongodb.com
 [ably]: https://ably.com
+[healthchecks]: https://healthchecks.io/pricing/
