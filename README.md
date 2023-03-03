@@ -15,6 +15,7 @@ There are plenty of interesting services (XaaS) out there and some offer even fr
 - [Design](#design)
 - [Development Platforms](#development-platforms)
 - [Event Streaming](#event-streaming)
+- [Infrastructure](#infrastructure)
 - [Kubernetes](#kubernetes)
 - [Messaging](#messaging)
 - [Networking](#networking)
@@ -375,6 +376,25 @@ see [Development Platforms](#development-platforms)
     - 5TB Storage
     - 99.5% Uptime SLA
   - [Pricing](https://www.confluent.co.uk/confluent-cloud/pricing)
+
+## Infrastructure
+
+- **[pulumi]** is a free, open source infrastructure as code tool, and works best with the Pulumi Service to make managing infrastructure secure, reliable, and hassle-free.
+
+  - Features:
+    - 1 member
+    - State & secret management
+    - Unlimited updates
+    - Hosted deployments This feature is in preview.
+ - [Pricing](https://www.pulumi.com/pricing/)
+ 
+- **[terraform cloud]** nables infrastructure automation for provisioning, compliance, and management of any cloud, data center, and service.
+  - Features:
+    - State management
+    - Remote operations
+    - Private module registry
+    - Community Support
+ - [Pricing](https://cloud.hashicorp.com/products/terraform/pricing)
 
 ## Kubernetes
 
@@ -836,3 +856,5 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [mongodb]: https://www.mongodb.com
 [ably]: https://ably.com
 [healthchecks]: https://healthchecks.io/pricing/
+[pulumi]: https://www.pulumi.com/product/
+[terraform cloud]: https://cloud.hashicorp.com/products/terraform/
