@@ -543,7 +543,15 @@ see [Development Platforms](#development-platforms)
     - 3 team members
     - 100 log entries per job
     - 5 SMS & WhatsApp credits
-  - [Pricing]([https://www.logdna.com/pricing](https://healthchecks.io/pricing/))
+  - [Pricing]([https://www.logdna.com/pricing](https://healthchecks.io/pricing/)
+
+- **[splunk enterprise developer license][splunk]** Splunk also offers a specialized license for app development. The Splunk Enterprise Developer license gives you access to a wider range of Splunk Enterprise features and capabilities. The Developer license is for development purposes only and is not legally permitted for use in production environments. As part of the license application process, Splunk may ask to review your development work to validate proper license usage.
+
+  - Features:
+    - Expires after 6 months, at which point it's renewable
+    - Has an indexing allowance of 10 GB of data per day
+    - Grants full access to Splunk Enterprise features
+
 
 ## IAM
 
@@ -858,3 +866,4 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [healthchecks]: https://healthchecks.io/pricing/
 [pulumi]: https://www.pulumi.com/product/
 [terraform cloud]: https://cloud.hashicorp.com/products/terraform/
+[splunk]: https://dev.splunk.com/enterprise/dev_license/#Request-a-Developer-license
