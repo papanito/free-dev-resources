@@ -78,8 +78,8 @@ see [Development Platforms](#development-platforms)
       - 5000 units of prediction per month
     - AutoML Tables
       - 6 node hours for training and prediction
-    - AutoML Translation
       - 500,000 translated characters per month
+    - AutoML Translation
     - AutoML Video Intelligence
       - 40 node hours for training
       - 5 node hours for prediction
@@ -641,15 +641,13 @@ see [Development Platforms](#development-platforms)
 
 ## Serverless Platform
 
-- **[heroku]** uns your app in lightweight, isolated Linux containers called "dynos." The platform offers different dyno types to help you get the best results for your type of app.
+- **[fly.io][fly]** is a platform for running full stack apps and databases close to your users.
 
   - Features:
-    - 550-1,000 dyno hours per month
-    - Deploy with Git and Docker
-    - Custom domains
-    - Container orchestration
-    - Automatic OS patching
-  - [Pricing](https://www.heroku.com/pricing)
+    - Up to 3 shared-cpu-1x 256mb VMs†
+    - 3GB persistent volume storage (total)
+    - 160GB outbound data transfer
+  - [Pricing](https://fly.io/docs/about/pricing/)
 
 - **[netlify]** is an intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps
 
@@ -826,3 +824,4 @@ Please create an [issue](https://github.com/papanito/free-dev-resources/issues) 
 [logdna]: https://www.logdna.com/
 [mongodb]: https://www.mongodb.com
 [ably]: https://ably.com
+[fly]: https://fly.io/
