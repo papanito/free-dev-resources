@@ -48,6 +48,9 @@
       var columns = Object.keys(jsonData[0]);
       columns.forEach(function (column) {
         var th = document.createElement("th");
+          var filterbox = document.createElement("input")
+          filterbox.id = column
+          filterbox.type = "text"
         th.textContent = column;
         headerRow.appendChild(th);
       });
@@ -58,7 +61,8 @@
       var tbody = document.createElement("tbody");
       function createTableBody(data) {
         tbody.innerHTML = ""; // Clear previous table body
-
+        var row = document.createElement("tr")
+        tbody.appendChild(row);
         data.forEach(function (rowData) {
           var row = document.createElement("tr");
           columns.forEach(function (column) {
